@@ -188,7 +188,7 @@ Library Name | Version | Description
 [cython](http://www.cython.org/) | 0.29.32 | The Cython compiler for writing C extensions for the Python language
 [cython-blis](http://github.com/explosion/cython-blis) | 0.4.1 | Fast matrix-multiplication as a self-contained Python library â€“ no system dependencies!
 [dataclasses](https://github.com/ericvsmith/dataclasses://github.com/ericvsmith/dataclasses/) | 0.8 | A backport of the dataclasses module for Python 3.6
-[deep-learning-essentials](https://github.com/esri/deep-learning-framworks) | 3.1 | Expansive collection of deep learning packages
+[deep-learning-essentials](https://github.com/esri/deep-learning-frameworks) | 3.1 | Expansive collection of deep learning packages
 [descartes](http://bitbucket.org/sgillies/descartes/) | 1.1.0 | Use geometric objects as matplotlib paths and patches
 [dm-tree](https://tree.readthedocs.io) | 0.1.7 | A library for working with nested data structures
 [dtreeviz](https://github.com/parrt/dtreeviz) | 1.3.7 | Decision tree visualization
@@ -378,7 +378,7 @@ cudnn | 8.1.0.77 | NVIDIA's cuDNN deep neural network acceleration library
 [cytoolz](https://github.com/pytoolz/cytoolz) | 0.11.0 | Cython implementation of Toolz. High performance functional utilities
 [dask-core](http://github.com/dask/dask/) | 2021.10.0 | Parallel Python with task scheduling
 [dataclasses](https://github.com/ericvsmith/dataclasses://github.com/ericvsmith/dataclasses/) | 0.8 | A backport of the dataclasses module for Python 3.6
-[deep-learning-essentials](https://github.com/esri/deep-learning-framworks) | 2.9 | Expansive collection of deep learning packages
+[deep-learning-essentials](https://github.com/esri/deep-learning-frameworks) | 2.9 | Expansive collection of deep learning packages
 [dtreeviz](https://github.com/parrt/dtreeviz) | 1.3 | Decision tree visualization
 [fastai](https://github.com/fastai/fastai) | 1.0.63 | fastai makes deep learning with PyTorch faster, more accurate, and easier
 [fastprogress](https://github.com/fastai/fastprogress) | 0.2.3 | A fast and simple progress bar for Jupyter Notebook and console
